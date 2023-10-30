@@ -1,3 +1,3 @@
 # git_training
-
-commit 3
+sqash 6
+commit 6
